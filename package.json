@@ -1,0 +1,13 @@
+{
+  "name": "flow-service",
+  "version": "1.0.0",
+  "description": "Microservicio Flow Service - Parcial 2",
+  "main": "src/lambdas/payment-flow/index.js",
+  "scripts": {
+    "local": "node ./src/lambdas/payment-flow/index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1615.0",
+    "dotenv": "^16.4.5"
+  }
+}
