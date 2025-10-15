@@ -1,5 +1,20 @@
+# Archivos sensibles
+.env
+
 # Dependencias de Node.js
 node_modules/
 npm-debug.log
 yarn-error.log
 package-lock.json
+
+# Archivos de build / empaquetado
+dist/
+*.zip
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración locales
+.vscode/
+.idea/
