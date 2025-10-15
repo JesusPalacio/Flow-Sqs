@@ -1,0 +1,7 @@
+{
+  "Records": [
+    {
+      "body": "{\"traceId\":\"1234-abc\",\"userId\":\"u1\",\"email\":\"usuario@correo.com\",\"service\":{\"servicio\":\"Luz Residencial\",\"plan\":\"Premium\"},\"status\":\"FINISH\"}"
+    }
+  ]
+}
